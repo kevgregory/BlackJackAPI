@@ -58,3 +58,15 @@ curl http://localhost:3000/scores
 ```
 curl -X POST http://localhost:3000/reset-scores
 ```
+
+
+## Screenshots:
+<img width="691" alt="Screenshot 2024-05-07 at 11 53 53 PM" src="https://github.com/kevgregory/BlackJackAPI/assets/143756578/7bcbc7d8-aef3-4b92-a927-f365e75e433c">
+
+<img width="452" alt="Screenshot 2024-05-07 at 11 54 05 PM" src="https://github.com/kevgregory/BlackJackAPI/assets/143756578/ce4e8955-b14a-4f00-9345-7a9addf478fa">
+
+<img width="289" alt="Screenshot 2024-05-07 at 11 54 12 PM" src="https://github.com/kevgregory/BlackJackAPI/assets/143756578/ed69ac5c-368d-49ca-8c1f-8fcda3793eea">
+
+<img width="323" alt="Screenshot 2024-05-07 at 11 54 19 PM" src="https://github.com/kevgregory/BlackJackAPI/assets/143756578/4112b575-b118-437f-ada1-6b772bb86067">
+
+<img width="326" alt="Screenshot 2024-05-07 at 11 54 25 PM" src="https://github.com/kevgregory/BlackJackAPI/assets/143756578/eb70a86e-0ec1-4972-92fb-cbf7cc543b28">
