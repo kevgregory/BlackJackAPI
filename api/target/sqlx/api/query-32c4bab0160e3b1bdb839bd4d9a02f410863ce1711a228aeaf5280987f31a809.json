@@ -1,0 +1,11 @@
+{
+  "query": "update scoring set score = score+1 where player = 'Player1'",
+  "describe": {
+    "columns": [],
+    "parameters": {
+      "Left": []
+    },
+    "nullable": []
+  },
+  "hash": "85798bd365fe6e6b32a0cfc7f7026bfffb56f4d8b507938e3d7ed12c65662878"
+}

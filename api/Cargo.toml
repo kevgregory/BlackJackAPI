@@ -1,0 +1,23 @@
+[package]
+name = "api"
+version = "0.1.0"
+edition = "2021"
+# You can add more metadata here like authors, description, repository, etc.
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+rocket = { version = "0.5.0-rc.3", features = ["json"] }
+
+rand = "0.8.5"
+
+
+sqlx = { version = "0.6", default-features = false, features = ["macros", "postgres", "offline"] }
+
+
+rocket_db_pools = { version = "0.1.0-rc.3", features = ["sqlx_postgres"] }
+
+
+[default.databases]
+postgres_score = { url = "postgres://postgres:mysecretpassword@localhost:5432/postgres" }

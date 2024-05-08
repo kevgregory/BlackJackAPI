@@ -1,0 +1,25 @@
+{
+  "query": "select * from scoring",
+  "describe": {
+    "columns": [
+      {
+        "ordinal": 0,
+        "name": "player",
+        "type_info": "Varchar"
+      },
+      {
+        "ordinal": 1,
+        "name": "score",
+        "type_info": "Int8"
+      }
+    ],
+    "parameters": {
+      "Left": []
+    },
+    "nullable": [
+      false,
+      false
+    ]
+  },
+  "hash": "8c33747b4a787e1f11341cfb588beaba576783d57582e7e85a564a351cb7f1b8"
+}

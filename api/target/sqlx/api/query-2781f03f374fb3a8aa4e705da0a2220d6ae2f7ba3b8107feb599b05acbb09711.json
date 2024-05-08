@@ -1,0 +1,11 @@
+{
+  "query": "insert into scoring values ('Player2', 0)",
+  "describe": {
+    "columns": [],
+    "parameters": {
+      "Left": []
+    },
+    "nullable": []
+  },
+  "hash": "3e1af6916d4696007c9ec2c3d50d3b665f598392f8921a400180ae1afef493d2"
+}

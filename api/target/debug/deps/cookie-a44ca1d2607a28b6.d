@@ -1,0 +1,11 @@
+/Users/kevinthomas/Desktop/BlackJackAPI/api/target/debug/deps/libcookie-a44ca1d2607a28b6.rmeta: /Users/kevinthomas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.17.0/src/lib.rs /Users/kevinthomas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.17.0/src/builder.rs /Users/kevinthomas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.17.0/src/parse.rs /Users/kevinthomas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.17.0/src/jar.rs /Users/kevinthomas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.17.0/src/delta.rs /Users/kevinthomas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.17.0/src/draft.rs /Users/kevinthomas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.17.0/src/expiration.rs
+
+/Users/kevinthomas/Desktop/BlackJackAPI/api/target/debug/deps/cookie-a44ca1d2607a28b6.d: /Users/kevinthomas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.17.0/src/lib.rs /Users/kevinthomas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.17.0/src/builder.rs /Users/kevinthomas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.17.0/src/parse.rs /Users/kevinthomas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.17.0/src/jar.rs /Users/kevinthomas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.17.0/src/delta.rs /Users/kevinthomas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.17.0/src/draft.rs /Users/kevinthomas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.17.0/src/expiration.rs
+
+/Users/kevinthomas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.17.0/src/lib.rs:
+/Users/kevinthomas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.17.0/src/builder.rs:
+/Users/kevinthomas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.17.0/src/parse.rs:
+/Users/kevinthomas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.17.0/src/jar.rs:
+/Users/kevinthomas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.17.0/src/delta.rs:
+/Users/kevinthomas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.17.0/src/draft.rs:
+/Users/kevinthomas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.17.0/src/expiration.rs:

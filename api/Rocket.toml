@@ -1,0 +1,6 @@
+[development]
+address = "0.0.0.0"
+port = 3000
+
+[default.databases]
+postgres_score = { url = "postgres://postgres:mysecretpassword@localhost:5432/postgres" }
